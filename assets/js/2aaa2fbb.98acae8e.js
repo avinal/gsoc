@@ -1,0 +1,1 @@
+(self.webpackChunkgosc_2021=self.webpackChunkgosc_2021||[]).push([[88],{3260:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/gsoc-2021/blog/tags","slug":"coding-week","name":"coding-week","count":1,"permalink":"/gsoc-2021/blog/tags/coding-week"}')}}]);
