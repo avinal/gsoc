@@ -1,1 +1,0 @@
-(self.webpackChunkgosc_2021=self.webpackChunkgosc_2021||[]).push([[294],{9581:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/gsoc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
